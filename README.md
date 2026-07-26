@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Prasad Dake
 
-<!--
-**Prasad928423123/Prasad928423123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+🤖 AI & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Python | Java | SQL | HTML | CSS | JavaScript
+
+🚀 Building Real-World AI Projects
+
+---
+
+## 🚀 Featured Project
+
+### 📰 AI Fake News Detection System
+
+✔ Machine Learning
+
+✔ Natural Language Processing
+
+✔ Streamlit Web App
+
+✔ 98.59% Accuracy
+
+🌐 Live Demo:
+https://ai-fake-news-detection-prasad.streamlit.app/
+
+💻 GitHub Repository:
+https://github.com/Prasad928423123/AI-Fake-News-Detection
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Streamlit
+- Machine Learning
+- Git & GitHub
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn:
+https://linkedin.com/in/YOUR-LINKEDIN
+
+🌐 GitHub:
+https://github.com/Prasad928423123
+
+⭐ Thanks for visiting my profile!
